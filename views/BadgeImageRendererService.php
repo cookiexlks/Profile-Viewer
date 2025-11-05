@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace Komarev\GitHubProfileViewsCounter;
+namespace cookiexlks\GitHubProfileViewsCounter;
 
 use PUGX\Poser\Badge;
 use PUGX\Poser\Calculator\SvgTextSizeCalculator;
